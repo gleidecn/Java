@@ -1,0 +1,20 @@
+public class HolaMundo {
+
+	public static void main(String[] args) {
+int edad;
+		
+		edad = 18;
+		
+		if (edad < 5) {
+			System.out.println("Vás a la: Preescolar");
+		}
+		else if (edad < 12) {
+			System.out.println("Vás a la: Primaria");
+		}
+		else if (edad <= 18) {
+			System.out.println("Vás a la: Secundária");
+		}else {
+			System.out.println("Ya no vas al colegio");
+		    }
+      }
+    }
