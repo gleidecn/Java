@@ -18,3 +18,23 @@ int edad;
 		    }
       }
     }
+    
+    *********************************    *********************************    *********************************    *********************************
+    
+    // Estudiando Caracteres in w3c, me he depadado con este exemplo, y como a vez estoy estudiando en Cesur, estamos aprendendo Binarion tabla Ascii etc...
+Abajo pide imprimir mi nombre, es una chorrada, pero cuando te sali MOLA!!!
+    
+    public class prueba {
+  public static void main(String[] args) {
+  
+    char primeraLetra = 71, segundaLetra =108, terceraLetra= 101, cuartaLetra= 105, quintaLetra= 100, sextaLetra= 101;
+    System.out.print(primeraLetra);
+    System.out.print(segundaLetra);
+    System.out.print(terceraLetra);
+    System.out.print(cuartaLetra);
+    System.out.print(quintaLetra);
+    System.out.print(sextaLetra);
+                    
+    
+  }
+}
